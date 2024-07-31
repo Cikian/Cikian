@@ -1,8 +1,7 @@
-<img align='right' src='https://raw.githubusercontent.com/Cikian/images/img/common2bf03a48c680a4d3da5d08f280b45d7e.gif' width='300'>
+![](https://raw.githubusercontent.com/Cikian/images/img/commonheader.png)
 
 [English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-HK.md)
 
-![](https://raw.githubusercontent.com/Cikian/images/img/commonheader.png)
 
 <h2>👋 About me</h2>
 
