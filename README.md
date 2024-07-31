@@ -81,10 +81,12 @@ In addition to **Java**, I like to study different programming languages, such a
 <h2>💬 Connect with me</h2>
 
 <p align="left">
-    <a href="https://github.com/Cikian" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://x.com/CikianX" target="blank"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.facebook.com/chencikian" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://t.me/CikianX" target="blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/chencikian/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/Cikian" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://x.com/CikianX" target="blank"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.facebook.com/chencikian" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://t.me/CikianX" target="blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.instagram.com/chencikian/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="mailto:cikian@outlook.com" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailTo" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 
