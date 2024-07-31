@@ -7,7 +7,7 @@
 
 Hello, I am **<font color="#03A9F4">Cikian</font>**, 一名 **<font color="#F31199">Java programmer</font>** !  👨‍💻
 
-Solid foundation and rich experience in **web backend** 和 **front-end** development, I graduated from [Hebei University of Water Resources and Electric Engineering ](https://www.hbwe.edu.cn/), Majoring in **software engineering **. I have professional knowledge in  **Java**, **SpringMVC**, **MySQL** and **server deployment**.
+Solid foundation and rich experience in **web backend** 和 **front-end** development, I graduated from [Hebei University of Water Resources and Electric Engineering ](https://www.hbwe.edu.cn/), Majoring in **software engineering**. I have professional knowledge in  **Java**, **SpringMVC**, **MySQL** and **server deployment**.
 
 In addition to **Java**, I like to study different programming languages, such as: python, GoLang, C\#, etc. I also like to explore different areas, such as blockchain technology, AI big models, etc. 👊
 
