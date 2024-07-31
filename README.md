@@ -10,6 +10,13 @@ Solid foundation and rich experience in ** web backend** 和 **front-end** devel
 
 In addition to **Java**, I like to study different programming languages, such as: python, GoLang, C\#, etc. I also like to explore different areas, such as blockchain technology, AI big models, etc. 👊
 
+<h2>🎢 Statistics</h2>
+
+<div style="display: flex;">
+<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent" /></a>
+<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cikian&exclude_repo=Cikian.github.io,Cikian,images,spms-web,vue-color-avatar,sql-generator&hide=html,css,FreeMarker&layout=compact&theme=transparent" /></a>
+</div>
+
 <h2>🏆 GitHub Activity</h2>
 
 <p>
@@ -17,16 +24,6 @@ In addition to **Java**, I like to study different programming languages, such a
 </p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=merko&custom_title=GitHubActivity&hide_border=true&point=FFFFFF&days=50)](http://github.com/Cikian)
-
-
-<h2>🎢 统计</h2>
-
-<div style="display: flex;">
-<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent" /></a>
-<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cikian&exclude_repo=Cikian.github.io,Cikian,images,spms-web,vue-color-avatar,sql-generator&hide=html,css,FreeMarker&layout=compact&theme=transparent" /></a>
-</div>
-
-
 
 <h2>🔧 Languages and Tools</h2>
 
