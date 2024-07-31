@@ -17,6 +17,7 @@ In addition to **Java**, I like to study different programming languages, such a
 <p>
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=Cikian&theme=onedark&column=-1&margin-w=15" />
 </p>
+
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=merko&custom_title=GitHub Activity&hide_border=true&point=FFFFFF&days=50)](https://github.com/Cikian)
 
 
@@ -58,6 +59,7 @@ In addition to **Java**, I like to study different programming languages, such a
 
 
 
+
 <h2>💻 IDE (Common development tools)</h2>
 
 <p>
@@ -69,6 +71,7 @@ In addition to **Java**, I like to study different programming languages, such a
 </p>
 
 
+
 <h2>💬 Connect with me</h2>
 
 <p align="left">
@@ -78,3 +81,4 @@ In addition to **Java**, I like to study different programming languages, such a
     <a href="https://t.me/CikianX" target="blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/chencikian/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
