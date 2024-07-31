@@ -2,26 +2,27 @@
 
 [English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-HK.md)
 
-<h2>👋 About me</h2>
+<h2>👋 關於我</h2>
 
-Hello, I am **<font color="#03A9F4">Cikian</font>**, 一名 **<font color="#F31199">Java programmer</font>** !  👨‍💻
+你好, 我是 **<font color="#03A9F4">陳子健</font>**, 一名 **<font color="#F31199">Java程序員</font>** !  👨‍💻
 
-Solid foundation and rich experience in ** web backend** 和 **front-end** development, I graduated from [Hebei University of Water Resources and Electric Engineering ](https://www.hbwe.edu.cn/), Majoring in **software engineering **. I have professional knowledge in  **Java**, **SpringMVC**, **MySQL** and **server deployment**.
+在 **web後端** 和 **前端** 開發方面有堅實基礎和豐富的經驗，我畢業於[河北水利電力學院 ](https://www.hbwe.edu.cn/)，專業爲 **軟件工程 **。我在 **Java**、**SpringMVC**、**MySQL** 和 **服務器部署** 等方面有專業的知識儲備。
 
-In addition to **Java**, I like to study different programming languages, such as: python, GoLang, C\#, etc. I also like to explore different areas, such as blockchain technology, AI big models, etc. 👊
+除了**Java** ，我喜歡研究不同的編程語言，例如：python、GoLang、C\# 等。也喜歡探索不同的領域，例如區塊鏈技術，AI大模型等👊
 
 
 
-<h2>🏆 GitHub Activity</h2>
+<h2>🏆 GitHub 活動</h2>
 
 <p>
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=Cikian&theme=onedark&column=-1&margin-w=15" />
 </p>
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=merko&custom_title=GitHub Activity&hide_border=true&point=FFFFFF&days=50)](https://github.com/Cikian)
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=merko&custom_title=活動圖&hide_border=true&point=FFFFFF&days=50)](https://github.com/Cikian)
 
 
 
-<h2>🔧 Languages and Tools</h2>
+<h2>🔧 語言和工具</h2>
 
 <p align="left">
     <a href="https://www.aliyun.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-ar21.svg" alt="alibabacloud" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,7 +59,7 @@ In addition to **Java**, I like to study different programming languages, such a
 
 
 
-<h2>💻 IDE (Common development tools)</h2>
+<h2>💻 IDE (常用開發工具)</h2>
 
 <p>
 	<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="idea" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -69,7 +70,8 @@ In addition to **Java**, I like to study different programming languages, such a
 </p>
 
 
-<h2>💬 Connect with me</h2>
+
+<h2>💬 與我聯繫</h2>
 
 <p align="left">
     <a href="https://github.com/Cikian" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -78,3 +80,4 @@ In addition to **Java**, I like to study different programming languages, such a
     <a href="https://t.me/CikianX" target="blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/chencikian/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
