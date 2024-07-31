@@ -1,6 +1,6 @@
-<img align='right' src='https://raw.githubusercontent.com/Cikian/images/img/common2bf03a48c680a4d3da5d08f280b45d7e.gif' width='300'>
+![](https://raw.githubusercontent.com/Cikian/images/img/commonheader-hk.png)
 
-[English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-HK.md)
+[![switch languages to English](https://img.shields.io/badge/switch languages-English-<COLOR>.svg)](././README.md) [![切换语言到简体中文](https://img.shields.io/badge/切换语言-简体中文-<COLOR>.svg)](./README_zh-CN.md) [![當前語言為繁體中文](https://img.shields.io/badge/當前語言-繁體中文-#47f5c1.svg)]()
 
 <h2>👋 關於我</h2>
 
@@ -10,15 +10,20 @@
 
 除了**Java** ，我喜歡研究不同的編程語言，例如：python、GoLang、C\# 等。也喜歡探索不同的領域，例如區塊鏈技術，AI大模型等👊
 
+<div style="display: flex; justify-content: space-around;">
+<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent&custom&show_icons=true&locale=zh-tw" /></a>
+<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cikian&exclude_repo=Cikian.github.io,Cikian,images,spms-web,vue-color-avatar,sql-generator&hide=html,css,FreeMarker&layout=compact&theme=transparent&locale=zh-tw" /></a>
+</div>
 
 
 <h2>🏆 GitHub 活動</h2>
 
 <p>
-	<img align="left" src="https://github-profile-trophy.vercel.app/?username=Cikian&theme=onedark&column=-1&margin-w=15" />
+	<img align="left" src="https://github-profile-trophy.vercel.app/?username=Cikian&theme=onedark&column=-1&margin-w=15&no-bg=true" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=merko&custom_title=活動圖&hide_border=true&point=FFFFFF&days=50)](https://github.com/Cikian)
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=github&hide_title=true&hide_border=true&point=FFFFFF&days=50)](https://github.com/Cikian)
 
 
 
@@ -59,6 +64,7 @@
 
 
 
+
 <h2>💻 IDE (常用開發工具)</h2>
 
 <p>
@@ -68,6 +74,7 @@
     <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 
 
 
