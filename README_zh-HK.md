@@ -17,12 +17,14 @@
 <a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cikian&exclude_repo=Cikian.github.io,Cikian,images,spms-web,vue-color-avatar,sql-generator&hide=html,css,FreeMarker&layout=compact&theme=transparent&locale=zh-tw" /></a>
 </div>
 
+
 <h2>🏆 GitHub 活動</h2>
 
 <p>
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=Cikian&theme=onedark&column=-1&margin-w=15&no-bg=true" />
 </p>
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=github&hide_title=true&hide_border=true&point=FFFFFF&days=50)
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=github&hide_title=true&hide_border=true&point=FFFFFF&days=50)]()
 
 
 
@@ -63,6 +65,7 @@
 
 
 
+
 <h2>💻 IDE (常用開發工具)</h2>
 
 <p>
@@ -75,6 +78,7 @@
 
 
 
+
 <h2>💬 與我聯繫</h2>
 
 <p align="left">
@@ -84,3 +88,4 @@
     <a href="https://t.me/CikianX" target="blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/chencikian/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
