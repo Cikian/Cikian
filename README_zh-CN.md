@@ -1,8 +1,6 @@
 ![](https://raw.githubusercontent.com/Cikian/images/img/commonheader-zh.png)
 
-[![switch languages to English](https://img.shields.io/badge/switch-English-<COLOR>.svg)](./README.md)
-[![当前语言为简体中文](https://img.shields.io/badge/当前语言-简体中文-47f5c1.svg)]()
-[![切換語言到繁體中文](https://img.shields.io/badge/切換語言-繁體中文-<COLOR>.svg)](./README_zh-HK.md)
+[![switch languages to English](https://img.shields.io/badge/switch languages-English-<COLOR>.svg)](./README.md) [![当前语言为简体中文](https://img.shields.io/badge/当前语言-简体中文-47f5c1.svg)]() [![切換語言到繁體中文](https://img.shields.io/badge/切換語言-繁體中文-<COLOR>.svg)](./README_zh-HK.md)
 
 <h2>👋 关于我</h2>
 
@@ -12,9 +10,10 @@
 
 除了**Java**，我喜欢研究不同的编程语言，例如：python、GoLang、C\# 等。也喜欢探索不同的领域，例如区块链技术，AI大模型等👊
 
+<h2>🎢 Statistics</h2>
 
 <div style="display: flex; justify-content: space-around;">
-<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent&custom&show_icons=true&locale=cn" /></a>
+<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent&custom&show_icons=true&locale=cn&card_width=250" /></a>
 <a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cikian&exclude_repo=Cikian.github.io,Cikian,images,spms-web,vue-color-avatar,sql-generator&hide=html,css,FreeMarker&layout=compact&theme=transparent&locale=cn" /></a>
 </div>
 
