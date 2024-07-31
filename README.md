@@ -1,8 +1,6 @@
 ![](https://raw.githubusercontent.com/Cikian/images/img/commonheader.png)
 
- [![Current language is English](https://img.shields.io/badge/current%20language-English-47f5c1.svg)]()
- [![当前语言为简体中文](https://img.shields.io/badge/切换语言-简体中文-<COLOR>.svg)](./README_zh-CN.md)
- [![切換語言到繁體中文](https://img.shields.io/badge/切換語言-繁體中文-<COLOR>.svg)](./README_zh-HK.md)
+[![Current language is English](https://img.shields.io/badge/current%20language-English-47f5c1.svg)]()[![当前语言为简体中文](https://img.shields.io/badge/切换语言-简体中文-<COLOR>.svg)](./README_zh-CN.md)[![切換語言到繁體中文](https://img.shields.io/badge/切換語言-繁體中文-<COLOR>.svg)](./README_zh-HK.md)
 
 <h2>👋 About me</h2>
 
@@ -14,8 +12,11 @@ In addition to **Java**, I like to study different programming languages, such a
 
 <h2>🎢 Statistics</h2>
 
-<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent&custom&show_icons=true" /></a>
-<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cikian&exclude_repo=Cikian.github.io,Cikian,images,spms-web,vue-color-avatar,sql-generator&hide=html,css,FreeMarker&layout=compact&theme=transparent" /></a>
+<div style="display: flex; justify-content: space-around;">
+<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent&custom&show_icons=true&locale=cn&card_width=250" /></a>
+<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cikian&exclude_repo=Cikian.github.io,Cikian,images,spms-web,vue-color-avatar,sql-generator&hide=html,css,FreeMarker&layout=compact&theme=transparent&locale=cn" /></a>
+</div>
+
 
 <h2>🏆 GitHub Activity</h2>
 
@@ -23,7 +24,7 @@ In addition to **Java**, I like to study different programming languages, such a
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=Cikian&theme=onedark&column=-1&margin-w=15&no-bg=true" />
 </p>
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=github&hide_title=true&hide_border=true&point=FFFFFF&days=50)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=merko&custom_title=GitHubActivity&hide_border=true&point=FFFFFF&days=50)
 
 
 
