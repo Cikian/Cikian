@@ -1,24 +1,29 @@
-<img align='right' src='https://raw.githubusercontent.com/Cikian/images/img/common2bf03a48c680a4d3da5d08f280b45d7e.gif' width='300'>
+![](https://raw.githubusercontent.com/Cikian/images/img/commonheader-zh.png)
 
-[English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-HK.md)
+[![switch languages to English](https://img.shields.io/badge/switch languages-English-<COLOR>.svg)](./README.md)[![当前语言为简体中文](https://img.shields.io/badge/当前语言-简体中文-#47f5c1.svg)]()[![切換語言到繁體中文](https://img.shields.io/badge/切換語言-繁體中文-<COLOR>.svg)](./README_zh-HK.md)
 
 <h2>👋 关于我</h2>
 
 你好, 我是 **<font color="#03A9F4">陈子健</font>**, 一名 **<font color="#F31199">Java程序员</font>** !  👨‍💻
 
-在 **web后端** 和 **前端** 开发方面有坚实基础和丰富的经验，我毕业于[河北水利电力学院 ](https://www.hbwe.edu.cn/)，专业为 **软件工程 **。我在 **Java**、**SpringMVC**、**MySQL** 和 **服务器部署** 等方面有专业的知识储备。
+在 **web后端** 和 **前端** 开发方面有坚实基础和丰富的经验，我毕业于[河北水利电力学院 ](https://www.hbwe.edu.cn/)，专业为 **软件工程**。我在 **Java**、**SpringMVC**、**MySQL** 和 **服务器部署** 等方面有专业的知识储备。
 
-除了**Java** ，我喜欢研究不同的编程语言，例如：python、GoLang、C\# 等。也喜欢探索不同的领域，例如区块链技术，AI大模型等👊
+除了**Java**，我喜欢研究不同的编程语言，例如：python、GoLang、C\# 等。也喜欢探索不同的领域，例如区块链技术，AI大模型等👊
 
+
+<div style="display: flex; justify-content: space-around;">
+<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent&custom&show_icons=true&locale=cn" /></a>
+<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cikian&exclude_repo=Cikian.github.io,Cikian,images,spms-web,vue-color-avatar,sql-generator&hide=html,css,FreeMarker&layout=compact&theme=transparent&locale=cn" /></a>
+</div>
 
 
 <h2>🏆 GitHub 活动</h2>
 
 <p>
-	<img align="left" src="https://github-profile-trophy.vercel.app/?username=Cikian&theme=onedark&column=-1&margin-w=15" />
+	<img align="left" src="https://github-profile-trophy.vercel.app/?username=Cikian&theme=onedark&column=-1&margin-w=15&no-bg=true" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=merko&custom_title=活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/Cikian)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=github&hide_title=true&hide_border=true&point=FFFFFF&days=50)
 
 
 
@@ -59,6 +64,7 @@
 
 
 
+
 <h2>💻 IDE (常用开发工具)</h2>
 
 <p>
@@ -71,6 +77,7 @@
 
 
 
+
 <h2>💬 与我联系</h2>
 
 <p align="left">
@@ -80,3 +87,4 @@
     <a href="https://t.me/CikianX" target="blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/chencikian/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
