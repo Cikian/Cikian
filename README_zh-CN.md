@@ -10,7 +10,7 @@
 
 除了**Java**，我喜欢研究不同的编程语言，例如：python、GoLang、C\# 等。也喜欢探索不同的领域，例如区块链技术，AI大模型等👊
 
-<h2>🎢 Statistics</h2>
+<h2>🎢 统计</h2>
 
 <div style="display: flex; justify-content: space-around;">
 <a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent&custom&show_icons=true&locale=cn&card_width=250" /></a>
