@@ -1,18 +1,19 @@
 ![](https://raw.githubusercontent.com/Cikian/images/img/commonheader.png)
 
-[English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-HK.md)
-
+[![Current language is English](https://img.shields.io/badge/current language-English-#47f5c1.svg)]()[![当前语言为简体中文](https://img.shields.io/badge/切换语言-简体中文-<COLOR>.svg)](./README_zh-CN.md)[![切換語言到繁體中文](https://img.shields.io/badge/切換語言-繁體中文-<COLOR>.svg)](./README_zh-HK.md)
 
 <h2>👋 About me</h2>
 
-Hello, I am **<font color="#03A9F4">Cikian</font>**, 一名 **<font color="#F31199">Java programmer</font>** !  👨‍💻
+Hello, I am **<font color="#03A9F4">Cikian</font>**, a **<font color="#F31199">Java programmer</font>** !  👨‍💻
 
 Solid foundation and rich experience in **web backend** 和 **front-end** development, I graduated from [Hebei University of Water Resources and Electric Engineering ](https://www.hbwe.edu.cn/), Majoring in **software engineering**. I have professional knowledge in  **Java**, **SpringMVC**, **MySQL** and **server deployment**.
 
 In addition to **Java**, I like to study different programming languages, such as: python, GoLang, C\#, etc. I also like to explore different areas, such as blockchain technology, AI big models, etc. 👊
 
+<h2>🎢 Statistics</h2>
+
 <div style="display: flex; justify-content: space-around;">
-<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent&custom&show_icons=true&card_width=250" /></a>
+<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent&custom&show_icons=true" /></a>
 <a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cikian&exclude_repo=Cikian.github.io,Cikian,images,spms-web,vue-color-avatar,sql-generator&hide=html,css,FreeMarker&layout=compact&theme=transparent" /></a>
 </div>
 
