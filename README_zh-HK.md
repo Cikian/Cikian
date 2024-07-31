@@ -6,11 +6,11 @@
 
 你好, 我是 **<font color="#03A9F4">陳子健</font>**, 一名 **<font color="#F31199">Java程序員</font>** !  👨‍💻
 
-在 **web後端** 和 **前端** 開發方面有堅實基礎和豐富的經驗，我畢業於[河北水利電力學院 ](https://www.hbwe.edu.cn/)，專業爲 **軟件工程 **。我在 **Java**、**SpringMVC**、**MySQL** 和 **服務器部署** 等方面有專業的知識儲備。
+在 **web後端** 和 **前端** 開發方面有堅實基礎和豐富的經驗，我畢業於[河北水利電力學院 ](https://www.hbwe.edu.cn/)，專業爲 **軟件工程**。我在 **Java**、**SpringMVC**、**MySQL** 和 **服務器部署** 等方面有專業的知識儲備。
 
 除了**Java** ，我喜歡研究不同的編程語言，例如：python、GoLang、C\# 等。也喜歡探索不同的領域，例如區塊鏈技術，AI大模型等👊
 
-<h2>🎢 Statistics</h2>
+<h2>🎢 統計</h2>
 
 <div style="display: flex; justify-content: space-around;">
 <a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent&custom&show_icons=true&locale=zh-tw&card_width=250" /></a>
