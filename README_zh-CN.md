@@ -70,10 +70,10 @@
 
 <p>
 	<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="idea" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.jetbrains.com/datagrip/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" alt="datagrip" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    	<a href="https://www.jetbrains.com/datagrip/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" alt="datagrip" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   	 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    	<a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   	 <a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -82,10 +82,11 @@
 <h2>💬 与我联系</h2>
 
 <p align="left">
-    <a href="https://github.com/Cikian" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://x.com/CikianX" target="blank"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.facebook.com/chencikian" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://t.me/CikianX" target="blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/chencikian/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/Cikian" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://x.com/CikianX" target="blank"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.facebook.com/chencikian" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://t.me/CikianX" target="blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.instagram.com/chencikian/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="mailto:cikian@outlook.com" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailTo" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
