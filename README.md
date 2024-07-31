@@ -4,7 +4,7 @@
 
 <h2>👋 About me</h2>
 
-Hello, I am **<font color="#03A9F4">Cikian</font>**, 一名 **<font color="#F31199">Java programmer</font>** !  👨‍💻
+Hello, I am **<font color="#03A9F4">Cikian</font>**, A **<font color="#F31199">Java programmer</font>** !  👨‍💻
 
 Solid foundation and rich experience in ** web backend** 和 **front-end** development, I graduated from [Hebei University of Water Resources and Electric Engineering ](https://www.hbwe.edu.cn/), Majoring in **software engineering **. I have professional knowledge in  **Java**, **SpringMVC**, **MySQL** and **server deployment**.
 
