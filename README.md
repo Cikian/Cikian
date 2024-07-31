@@ -12,7 +12,7 @@ Solid foundation and rich experience in **web backend** 和 **front-end** develo
 In addition to **Java**, I like to study different programming languages, such as: python, GoLang, C\#, etc. I also like to explore different areas, such as blockchain technology, AI big models, etc. 👊
 
 <div style="display: flex; justify-content: space-around;">
-<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent&custom&show_icons=true" /></a>
+<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent&custom&show_icons=true&card_width=250" /></a>
 <a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cikian&exclude_repo=Cikian.github.io,Cikian,images,spms-web,vue-color-avatar,sql-generator&hide=html,css,FreeMarker&layout=compact&theme=transparent" /></a>
 </div>
 
