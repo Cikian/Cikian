@@ -1,6 +1,8 @@
 ![](https://raw.githubusercontent.com/Cikian/images/img/commonheader-hk.png)
 
-[![switch languages to English](https://img.shields.io/badge/switch-English-<COLOR>.svg)](././README.md) [![切换语言到简体中文](https://img.shields.io/badge/切换语言-简体中文-<COLOR>.svg)](./README_zh-CN.md) [![當前語言為繁體中文](https://img.shields.io/badge/當前語言-繁體中文-#47f5c1.svg)]()
+[![switch languages to English](https://img.shields.io/badge/switch-English-<COLOR>.svg)](././README.md)
+[![切换语言到简体中文](https://img.shields.io/badge/切换语言-简体中文-<COLOR>.svg)](./README_zh-CN.md)
+[![當前語言為繁體中文](https://img.shields.io/badge/當前語言-繁體中文-47f5c1.svg)]()
 
 <h2>👋 關於我</h2>
 
