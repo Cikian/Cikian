@@ -16,7 +16,7 @@ In addition to **Java**, I like to study different programming languages, such a
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=Cikian&theme=onedark&column=-1&margin-w=15" />
 </p>
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=merko&custom_title=GitHubActivity&hide_border=true&point=FFFFFF&days=50)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=merko&custom_title=GitHubActivity&hide_border=true&point=FFFFFF&days=50)](http://github.com/Cikian)
 
 <h2>🔧 Languages and Tools</h2>
 
