@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: Cikian
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%236D28D9
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2322D3EE
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
