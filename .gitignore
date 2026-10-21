@@ -1,0 +1,3 @@
+# local QA scratch files
+_qa_*.html
+__pycache__/

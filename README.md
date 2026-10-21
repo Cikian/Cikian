@@ -1,92 +1,155 @@
-![](https://raw.githubusercontent.com/Cikian/images/img/commonheader.png)
+<div align="center">
 
-[![Current language is English](https://img.shields.io/badge/current%20language-English-47f5c1.svg)](./README.md) [![当前语言为简体中文](https://img.shields.io/badge/切换语言-简体中文-<COLOR>.svg)](./README_zh-CN.md)[![切換語言到繁體中文](https://img.shields.io/badge/切換語言-繁體中文-<COLOR>.svg)](./README_zh-HK.md)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+  <img src="assets/hero-light.svg" alt="Cikian Chen — Java backend engineer, full-stack developer, open source" width="100%" />
+</picture>
 
-<h2>👋 About me</h2>
+<a href="./README.md"><img src="https://img.shields.io/badge/ENGLISH-22D3EE?style=flat-square&amp;labelColor=0D1224" alt="English" /></a>
+<a href="./README_zh-CN.md"><img src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-1B2540?style=flat-square&amp;labelColor=0D1224" alt="简体中文" /></a>
 
-Hello, I am **<font color="#03A9F4">Cikian</font>**, a **<font color="#F31199">Java programmer</font>** !  👨‍💻
-
-Solid foundation and rich experience in **web backend** and **front-end** development, I graduated from [Hebei University of Water Resources and Electric Engineering](https://www.hbwe.edu.cn/), Majoring in **software engineering**. I have professional knowledge in  **Java**, **SpringMVC**, **MySQL** and **server deployment**.
-
-In addition to **Java**, I like to study different programming languages, such as: python, GoLang, C\#, etc. I also like to explore different areas, such as blockchain technology, AI big models, etc. 👊
-
-<h2>🎢 Statistics</h2>
-
-<div style="display: flex; justify-content: space-around;">
-<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cikian&theme=transparent&custom&show_icons=true&card_width=250" /></a>
-<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cikian&exclude_repo=Cikian.github.io,Cikian,images,spms-web,vue-color-avatar,sql-generator&hide=html,css,FreeMarker&layout=compact&theme=transparent" /></a>
 </div>
 
+<br />
 
-<h2>🏆 GitHub Activity</h2>
+## 🚀 What I'm building
 
-<p>
-	<img align="left" src="https://github-profile-trophy.vercel.app/?username=Cikian&theme=onedark&column=-1&margin-w=15&no-bg=true" />
-</p>
+<sub>Repositories I actually use — object storage, tunnels, Redis tooling and a bit of reverse engineering.</sub>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cikian&theme=github&hide_title=true&hide_border=true&point=FFFFFF&days=50)]()
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Cikian/cik-oss"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/proj-01-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/proj-01-light.svg" />
+<img src="assets/proj-01-light.svg" alt="cik-oss" width="100%" />
+</picture></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Cikian/CikPier"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/proj-02-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/proj-02-light.svg" />
+<img src="assets/proj-02-light.svg" alt="CikPier" width="100%" />
+</picture></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Cikian/crydis"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/proj-03-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/proj-03-light.svg" />
+<img src="assets/proj-03-light.svg" alt="crydis" width="100%" />
+</picture></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Cikian/chatgpt2api"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/proj-04-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/proj-04-light.svg" />
+<img src="assets/proj-04-light.svg" alt="chatgpt2api" width="100%" />
+</picture></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Cikian/log-plus-spring-boot-starter"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/proj-05-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/proj-05-light.svg" />
+<img src="assets/proj-05-light.svg" alt="log-plus-spring-boot-starter" width="100%" />
+</picture></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Cikian/cik-kmz-translator"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/proj-06-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/proj-06-light.svg" />
+<img src="assets/proj-06-light.svg" alt="cik-kmz-translator" width="100%" />
+</picture></a>
+</td>
+</tr>
+</table>
 
+## 🧰 Tech I work with
 
+<sub>Java is home base; everything else is a detour that turned useful.</sub>
 
-<h2>🔧 Languages and Tools</h2>
+**Backend**
 
-<p align="left">
-    <a href="https://www.aliyun.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-ar21.svg" alt="alibabacloud" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.azure.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="aws" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.axios.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="axios" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://echarts.apache.org" target="_blank"> <img src="https://echarts.apache.org/en/images/favicon.png" alt="echarts" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://element-plus.org" target="_blank"> <img src="https://element-plus.org/images/element-plus-logo.svg" alt="Element Plus" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://go.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="git" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.hutool.cn" target="_blank"> <img src="https://plus.hutool.cn/images/hutool.svg" alt="hutool" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.json.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://baomidou.com" target="_blank"> <img src="https://baomidou.com/assets/asset.cIbiVTt_.svg" alt="MyBatis-Plus" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="nodejs" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://swagger.io/" target="_blank"> <img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" alt="swagger" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://cloud.tencent.com/" target="_blank"> <img src="https://cloudcache.tencent-cloud.com/qcloud/favicon.ico" alt="tencent-cloud" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://vitejs.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg" alt="vite" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://webpack.js.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" alt="webpack" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+![Java](https://img.shields.io/badge/Java-131C30?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-131C30?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-131C30?style=flat-square&logo=spring&logoColor=6DB33F)
+![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-131C30?style=flat-square)
+![Hutool](https://img.shields.io/badge/Hutool-131C30?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-131C30?style=flat-square&logo=redis&logoColor=FF4438)
+![Go](https://img.shields.io/badge/Go-131C30?style=flat-square&logo=go&logoColor=00ADD8)
+![Python](https://img.shields.io/badge/Python-131C30?style=flat-square&logo=python&logoColor=3776AB)
 
+**Frontend**
 
+![Vue 3](https://img.shields.io/badge/Vue_3-131C30?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-131C30?style=flat-square&logo=vite&logoColor=646CFF)
+![Element Plus](https://img.shields.io/badge/Element_Plus-131C30?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-131C30?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-131C30?style=flat-square&logo=typescript&logoColor=3178C6)
+![ECharts](https://img.shields.io/badge/ECharts-131C30?style=flat-square&logo=apacheecharts&logoColor=AA344D)
 
+**Data & Infra**
 
-<h2>💻 IDE (Common development tools)</h2>
+![MySQL](https://img.shields.io/badge/MySQL-131C30?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-131C30?style=flat-square&logo=mongodb&logoColor=47A248)
+![SQL Server](https://img.shields.io/badge/SQL_Server-131C30?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+![Nginx](https://img.shields.io/badge/Nginx-131C30?style=flat-square&logo=nginx&logoColor=009639)
+![Docker](https://img.shields.io/badge/Docker-131C30?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-131C30?style=flat-square&logo=linux&logoColor=FCC624)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-131C30?style=flat-square&logo=alibabacloud&logoColor=FF6A00)
+![MinIO](https://img.shields.io/badge/MinIO-131C30?style=flat-square&logo=minio&logoColor=C72C48)
 
-<p>
-	<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="idea" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.jetbrains.com/datagrip/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" alt="datagrip" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+**Tools & Editors**
 
+![Git](https://img.shields.io/badge/Git-131C30?style=flat-square&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-131C30?style=flat-square&logo=githubactions&logoColor=2088FF)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-131C30?style=flat-square&logo=intellijidea&logoColor=FE315D)
+![DataGrip](https://img.shields.io/badge/DataGrip-131C30?style=flat-square&logo=datagrip&logoColor=22D3EE)
+![VS Code](https://img.shields.io/badge/VS_Code-131C30?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-131C30?style=flat-square&logo=postman&logoColor=FF6C37)
 
+## 📈 By the numbers
 
-<h2>💬 Connect with me</h2>
+<sub>Pulled live from the GraphQL API and redrawn every night by a workflow — no third-party card services, no broken images.</sub>
 
-<p align="left">
-	<a href="https://github.com/Cikian" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://x.com/CikianX" target="blank"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.facebook.com/chencikian" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://t.me/CikianX" target="blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.instagram.com/chencikian/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="mailto:cikian@outlook.com" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailTo" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
+  <img src="assets/stats-light.svg" alt="GitHub statistics for Cikian — stars, commits, streaks and most used languages" width="100%" />
+</picture>
 
+</div>
+
+## 🐍 Contribution graph
+
+<sub>A snake that eats my commit graph, redrawn every night.</sub>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cikian/Cikian/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cikian/Cikian/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Cikian/Cikian/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
+</picture>
+
+</div>
+
+## 🤝 Say hi
+
+<sub>Software engineering graduate of HBWE · currently shipping backend systems and small tools.</sub>
+
+<div align="center">
+
+<a href="https://github.com/Cikian"><img src="https://img.shields.io/badge/GitHub-Cikian-131C30?style=flat-square&amp;logo=github&amp;logoColor=22D3EE" alt="GitHub" /></a>
+<a href="https://www.cikian.cn/"><img src="https://img.shields.io/badge/Blog-cikian.cn-131C30?style=flat-square&amp;logo=rss&amp;logoColor=A78BFA" alt="Blog" /></a>
+<a href="mailto:cikian@outlook.com"><img src="https://img.shields.io/badge/Mail-cikian%40outlook.com-131C30?style=flat-square&amp;logo=maildotru&amp;logoColor=34D399" alt="Email" /></a>
+<a href="https://x.com/CikianX"><img src="https://img.shields.io/badge/X-@CikianX-131C30?style=flat-square&amp;logo=x&amp;logoColor=F1F5F9" alt="X" /></a>
+<a href="https://t.me/CikianX"><img src="https://img.shields.io/badge/Telegram-@CikianX-131C30?style=flat-square&amp;logo=telegram&amp;logoColor=29A9EB" alt="Telegram" /></a>
+
+</div>

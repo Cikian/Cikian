@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="176" viewBox="0 0 430 176" fill="none" role="img" aria-label="cik-oss: One SDK for Alibaba OSS, AWS S3, MinIO and Upyun object storage.">
+<defs><linearGradient id="cbg" x1="0" y1="0" x2="430" y2="176" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F7FAFF"/></linearGradient><radialGradient id="cg" cx="0.5" cy="0.5" r="0.5"><stop stop-color="#E76F00" stop-opacity="0.13"/><stop offset="1" stop-color="#E76F00" stop-opacity="0"/></radialGradient><linearGradient id="cbar" x1="0" y1="0" x2="0" y2="176" gradientUnits="userSpaceOnUse"><stop stop-color="#E76F00" stop-opacity="0.95"/><stop offset="1" stop-color="#E76F00" stop-opacity="0.05"/></linearGradient><filter id="csh" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#7A8AA8" flood-opacity="0.30"/></filter><clipPath id="cc"><rect width="430" height="176" rx="16"/></clipPath></defs>
+<g clip-path="url(#cc)">
+<rect width="430" height="176" fill="url(#cbg)"/>
+<ellipse cx="390" cy="-30" rx="200" ry="140" fill="url(#cg)"/>
+<rect x="0" y="0" width="3.5" height="176" fill="url(#cbar)" fill-opacity="0.85"/>
+<g font-family="Inter,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,'PingFang SC','Microsoft YaHei',sans-serif">
+<text x="28" y="47" font-size="18.5" font-weight="700" letter-spacing="-0.3" fill="#0F172A">cik-oss</text>
+<circle cx="30" cy="68" r="4" fill="#E76F00"/>
+<text x="42" y="72.5" font-size="11" letter-spacing="1.1" fill="#64748B" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Consolas,'Liberation Mono',monospace">JAVA</text>
+<text x="28" y="104" font-size="12.8" fill="#3F4C63">One SDK for Alibaba OSS, AWS S3, MinIO</text>
+<text x="28" y="122" font-size="12.8" fill="#3F4C63">and Upyun object storage.</text>
+<rect x="28.0" y="139" width="68.3" height="23" rx="11.5" fill="#F1F5FC" stroke="#DCE4F2"/>
+<text x="62.2" y="154.5" font-size="10.5" letter-spacing="0.7" fill="#475569" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Consolas,'Liberation Mono',monospace">storage</text>
+<rect x="104.3" y="139" width="40.7" height="23" rx="11.5" fill="#F1F5FC" stroke="#DCE4F2"/>
+<text x="124.7" y="154.5" font-size="10.5" letter-spacing="0.7" fill="#475569" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Consolas,'Liberation Mono',monospace">sdk</text>
+</g>
+<text x="402" y="48" font-size="17" fill="#94A3B8" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Consolas,'Liberation Mono',monospace">↗</text>
+</g>
+<rect x="0.5" y="0.5" width="429" height="175" rx="15.5" stroke="#DAE3F2"/>
+</svg>

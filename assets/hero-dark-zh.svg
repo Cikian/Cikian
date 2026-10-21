@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" fill="none" role="img" aria-label="Cikian Chen - Java 后端工程师">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1400" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#0A0F1E"/><stop offset="1" stop-color="#0C1428"/></linearGradient>
+<radialGradient id="gc" cx="0.5" cy="0.5" r="0.5"><stop stop-color="#22D3EE" stop-opacity="0.20"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<radialGradient id="gv" cx="0.5" cy="0.5" r="0.5"><stop stop-color="#A78BFA" stop-opacity="0.24"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+<linearGradient id="nm" x1="72" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0V56" fill="none" stroke="#1C2844" stroke-opacity="0.5" stroke-width="1"/></pattern>
+<filter id="sh" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#000000" flood-opacity="0.45"/></filter>
+<clipPath id="clip"><rect width="1400" height="360" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1400" height="360" fill="url(#bg)"/>
+<rect width="1400" height="360" fill="url(#grid)"/>
+<ellipse cx="1180" cy="-60" rx="520" ry="360" fill="url(#gc)"/>
+<ellipse cx="120" cy="430" rx="500" ry="340" fill="url(#gv)"/>
+<g font-family="Inter,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,'PingFang SC','Microsoft YaHei',sans-serif">
+<circle cx="80" cy="90" r="4.5" fill="#67E8F9"/>
+<text x="94" y="95" font-size="14.5" font-weight="600" letter-spacing="3.4" fill="#67E8F9">// 你好，世界</text>
+<text x="70" y="176" font-size="62" font-weight="800" letter-spacing="-1.6" fill="url(#nm)">Cikian Chen</text>
+<text x="72" y="216" font-size="19.5" font-weight="500" fill="#C7D2E4">Java 后端工程师   ·   全栈开发   ·   开源实践者</text>
+<text x="72" y="250" font-size="16" fill="#7C89A8">我做开发者工具：Spring Boot Starter、对象存储 SDK 与桌面应用。</text>
+<rect x="72.0" y="272" width="84.0" height="33" rx="16.5" fill="#101A2F" stroke="#28344F"/>
+<text x="114.0" y="293.5" font-size="12.5" letter-spacing="0.9" fill="#98A5C0" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Consolas,'Liberation Mono',monospace">软件工程</text>
+<rect x="168.0" y="272" width="120.8" height="33" rx="16.5" fill="#101A2F" stroke="#28344F"/>
+<text x="228.4" y="293.5" font-size="12.5" letter-spacing="0.9" fill="#98A5C0" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Consolas,'Liberation Mono',monospace">java · go · vue</text>
+<rect x="300.8" y="272" width="109.0" height="33" rx="16.5" fill="#101A2F" stroke="#28344F"/>
+<text x="355.2" y="293.5" font-size="12.5" letter-spacing="0.9" fill="#98A5C0" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Consolas,'Liberation Mono',monospace">欢迎交流合作</text>
+</g>
+<g font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Consolas,'Liberation Mono',monospace">
+<rect x="866" y="62" width="468" height="236" rx="16" fill="#0A1121" fill-opacity="0.78" filter="url(#sh)"/>
+<rect x="866.5" y="62.5" width="467" height="235" rx="15.5" stroke="#233050"/>
+<line x1="867" y1="104" x2="1333" y2="104" stroke="#233050" stroke-opacity="0.85"/>
+<circle cx="892" cy="83" r="5" fill="#FF5F57" fill-opacity="0.9"/>
+<circle cx="910" cy="83" r="5" fill="#FEBC2E" fill-opacity="0.9"/>
+<circle cx="928" cy="83" r="5" fill="#28C840" fill-opacity="0.9"/>
+<text x="974" y="88" font-size="11.5" letter-spacing="0.6" fill="#5A6889">cikian@dev — zsh</text>
+<text x="894" y="136" font-size="13.5" fill="#22D3EE">$ </text>
+<text x="910.3" y="136" font-size="13.5" fill="#E2E8F0">whoami</text>
+<text x="894" y="162" font-size="13.5" fill="#7E8BA8">java backend engineer  —  hebei, cn</text>
+<text x="894" y="188" font-size="13.5" fill="#22D3EE">$ </text>
+<text x="910.3" y="188" font-size="13.5" fill="#E2E8F0">ls ~/projects/</text>
+<text x="894" y="214" font-size="13.5" fill="#7E8BA8">cik-oss   CikPier   crydis   log-plus</text>
+<text x="894" y="240" font-size="13.5" fill="#22D3EE">$ </text>
+<text x="910.3" y="240" font-size="13.5" fill="#E2E8F0">status</text>
+<text x="894" y="266" font-size="13.5" fill="#34D399">● </text>
+<text x="910.3" y="266" font-size="13.5" fill="#7E8BA8">open to collaboration</text>
+</g>
+</g>
+<rect x="0.5" y="0.5" width="1399" height="359" rx="17.5" stroke="#1E2A44"/>
+</svg>
